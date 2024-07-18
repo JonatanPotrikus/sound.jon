@@ -1,0 +1,4 @@
+
+### 
+GET https://api.spotify.com/v1/search?q=L%C3%B3gica%2BInsana&type=artist
+Authorization: Bearer {TOKEN}
